@@ -41,6 +41,7 @@ export default function NavLinks() {
           </Link>
         );
       })}
+      <p>see o</p>
     </>
   );
 }
